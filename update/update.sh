@@ -2,8 +2,8 @@
 
 echo "[*] Updating proXXy..."
 
-REPO_URL="https://github.com/Atropa-Solanaceae/proXXy"
-REPO_DIR="proXXy"
+REPO_URL="https://github.com/httpplain/prox"
+REPO_DIR="prox"
 REQUIREMENTS_FILE="requirements.txt"
 
 check_dependencies() {
